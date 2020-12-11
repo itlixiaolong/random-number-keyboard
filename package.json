@@ -1,6 +1,6 @@
 {
   "name": "random-number-keyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a random number keyboard component of vue2.0",
   "main": "dist/RandomNumberKeyboard.umd.min.js",
   "scripts": {
