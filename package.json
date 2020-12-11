@@ -1,0 +1,18 @@
+{
+  "name": "random-number-keyboard",
+  "version": "1.0.0",
+  "description": "a random number keyboard component of vue2.0",
+  "main": "dist/RandomNumberKeyboard.umd.min.js",
+  "scripts": {
+    "serve": "vue serve",
+    "build": "vue-cli-service build --target lib --name RandomNumberKeyboard  src/index.js",
+    "test": "npm run test"
+  },
+  "author": "itlixiaolong",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/cli-service-global": "^4.5.9",
+    "lib-flexible": "^0.3.2",
+    "postcss-pxtorem": "^5.1.1"
+  }
+}
