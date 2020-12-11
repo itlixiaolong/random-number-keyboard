@@ -14,5 +14,9 @@
     "@vue/cli-service-global": "^4.5.9",
     "lib-flexible": "^0.3.2",
     "postcss-pxtorem": "^5.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itlixiaolong/random-number-keyboard.git"
   }
 }
